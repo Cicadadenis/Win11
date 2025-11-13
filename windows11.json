@@ -2,6 +2,7 @@
   {
     "id": "adminpe",
     "name": "AdminPE",
+    "imageUrl": "logo.png",
     "tags": [
       "windows",
       "x64",
