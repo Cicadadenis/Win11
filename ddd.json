@@ -1,22 +1,15 @@
-[
-  {
-    "id": "win11_23h2_ru",
-    "name": "Windows 11 23H2 (RU)",
-    "tags": [
-      "windows",
-      "x64",
-      "msdn",
-      "ru"
-    ],
-    "url": "https://www.microsoft.com/software-download/windows11",
-    "releases": [
-      {
-        "url": "https://ftp.zhirov.kz/program/%D0%9E%D0%B1%D1%80%D0%B0%D0%B7%D1%8B%20%D0%B4%D0%B8%D1%81%D0%BA%D0%BE%D0%B2/Microsoft%20Windows%2011%20%5B10.0.22631.3737%5D%2C%20Version%2023H2%20%28Updated%20June%202024%29%20-%20%D0%9E%D1%80%D0%B8%D0%B3%D0%B8%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%20%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D1%8B%20%D0%BE%D1%82%20Microsoft%20MSDN%20%5BRu%5D/ru-ru_windows_11_consumer_editions_version_23h2_updated_june_2024_x64_dvd_78b33b16.iso",
-        "arch": "x86_64",
-        "version": "23H2 (June 2024)",
-        "size": 6643779584
-      }
-    ],
-    "path": "/dists/windows11_23h2_ru.json"
-  }
-]
+{
+  "id": "win11ru",
+  "name": "Windows 11 23H2 (RU)",
+  "url": "https://ftp.zhirov.kz/.../windows11.iso",
+  "tags": ["hybrid"],
+  "releases": [
+    {
+      "url": "https://ftp.zhirov.kz/.../windows11.iso",
+      "version": "23H2",
+      "arch": "x64",
+      "size": 5788131328
+    }
+  ],
+  "icon": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2021.svg"
+}
